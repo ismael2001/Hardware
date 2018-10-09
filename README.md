@@ -37,9 +37,7 @@ Cabeceras
 Usa la tecla de número (#) para definir cabeceras. Se pueden usar una a seis teclas, dependiendo de la estructura del texto (más teclas → menos importante). Corresponden con los elementos <h1> a <h6> en HTML.
 Código
 Muy útil para nuestro proyecto. Para usar código en un párrafo, usa el tilde (`). Para crear un code block, escribe cuatro espacios ( ) antes de la linea
-
-Aquí tenemos un `code` en un párrafo. 
-    
+Aquí tenemos un `code` en un párrafo.  
     **Ejemplo de un code block en Markdown**
 Aquí tenemos un code en un párrafo.
 
